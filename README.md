@@ -6,10 +6,10 @@ This is the first project of 42. It aims to be a "recreation" of libc.
 
 125/100 ✅
 
-## Note
+## Notes
 
-Like my [piscine](https://github.com/oyamabs/my-42-piscine) I also removed all of my tests and main functions.
-
+- Like my [piscine](https://github.com/oyamabs/my-42-piscine) I also removed all of my tests and main functions.
+- Code is by no means perfect. I could've done some things better
 
 ## Acknowledgements
 
